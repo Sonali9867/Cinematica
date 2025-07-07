@@ -26,13 +26,37 @@ The platform also includes a **genre-based recommendation system** that suggests
 - ✅ User Registration & Login  
 - ✅ Movie/Series Browsing  
 - ✅ Genre & Language Filtering  
-- ✅ Search Functionality  
-- ✅ Watchlist Management  
+- ✅ Search Functionality   
 - ✅ Ratings & Reviews  
 - ✅ Admin Panel for Content Management  
-- ✅ **Genre-Based Recommendation System**  
+- ✅ Genre-Based Recommendation System  
 
 ---
+
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
+
+---
+
+### 🎯 Genre-Based Recommendations
+![Recommendations](screenshots/genre_recommendation.png)
+
+---
+
+### 🎬 Movie Details Page
+![Movie Details](screenshots/movie_details.png)
+
+---
+
+### 📂 Watchlist Management
+![Watchlist](screenshots/watchlist.png)
+
+---
+
+### 🛠️ Admin Panel
+![Admin Panel](screenshots/admin_panel.png)
 
 
 
