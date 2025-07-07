@@ -38,25 +38,36 @@ The platform also includes a **genre-based recommendation system** that suggests
 ### 🏠 Homepage
 ![Homepage](screenshots/scr-1.png)
 
----
+
 
 ### 🎯 Genre-Based Recommendations
-![Recommendations](screenshots/scr2.png)
+![Recommendations](screenshots/scr5.png)
 
----
+
 
 ### 🎬 Movie Details Page
-![Movie Details](screenshots/movie_details.png)
+![Movie Details](screenshots/scr3.png)
 
----
 
-### 📂 Watchlist Management
-![Watchlist](screenshots/watchlist.png)
 
----
+
+
+### 🔐 Sign In Page
+![Sign In](screenshots/scr11.png)
+
+
+
+### 📝 Sign Up Page
+![Sign Up](screenshots/scr10.png)
+
+
+
+### 💳 Subscription Page
+![Subscription Page](screenshots/scr7.png)
+
 
 ### 🛠️ Admin Panel
-![Admin Panel](screenshots/admin_panel.png)
+![Admin Panel](screenshots/scr12.png)
 
 
 
