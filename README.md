@@ -71,3 +71,21 @@ The platform also includes a **genre-based recommendation system** that suggests
 
 
 
+---
+
+## 📦 Installation & Setup
+
+### 🖥️ Prerequisites
+
+- [XAMPP]
+- PHP & MySQL installed
+
+### 🔧 Steps
+
+1. Clone or download this repository:
+   ```bash
+   git clone https://github.com/your-username/cinematica.git
+
+
+
+
