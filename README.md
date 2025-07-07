@@ -36,7 +36,7 @@ The platform also includes a **genre-based recommendation system** that suggests
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/scr1.png)
 
 ---
 
