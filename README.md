@@ -36,12 +36,12 @@ The platform also includes a **genre-based recommendation system** that suggests
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](screenshots/scr1.png)
+![Homepage](screenshots/scr-1.png)
 
 ---
 
 ### 🎯 Genre-Based Recommendations
-![Recommendations](screenshots/genre_recommendation.png)
+![Recommendations](screenshots/scr2.png)
 
 ---
 
